@@ -1,3 +1,0 @@
-C:/Users/Rohith Reddy/dsa_daily/cmake-build-debug/CMakeFiles/dsa_daily.dir
-C:/Users/Rohith Reddy/dsa_daily/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Rohith Reddy/dsa_daily/cmake-build-debug/CMakeFiles/rebuild_cache.dir

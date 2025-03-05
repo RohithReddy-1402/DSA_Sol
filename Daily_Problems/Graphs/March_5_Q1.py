@@ -21,5 +21,5 @@ class Solution:
         
         return 0
 # TC:O(L)
-# SC:O(N
+# SC:O(N)
 # Approach:make all possiblites of the present word and search for the word

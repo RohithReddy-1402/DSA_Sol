@@ -13,4 +13,3 @@ class Solution:
 # TC:O(N)
 # SC:O(1)
 # Approach: find the the sum of xor of first k elements and then use sliding window .
-#  

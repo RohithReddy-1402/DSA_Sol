@@ -2,3 +2,6 @@
 cmake-buuild-debug/
 CMakeLists.txt
 main.cpp
+backend_q
+q_paper
+video
